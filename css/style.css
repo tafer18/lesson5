@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Explora&family=Stick+No+Bills:wght@200;600&display=swap");
+@font-face {
+	font-family: "Gilroy";
+	src: url(../fonts/Gilroy-Thin.woff2) format("woff2"), url(../fonts/Gilroy-Thin.woff) format("woff");
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+:focus,
+:active {
+	outline: none;
+}
+a:focus,
+a:active {
+	outline: none;
+}
+nav,
+footer,
+header,
+aside {
+	display: block;
+}
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: inherit;
+}
+img {
+	width: 300px;
+	height: 300px;
+}
+body {
+	width: 900px;
+	margin: 0 auto;
+}
+header {
+	font-size: 30px;
+	text-align: center;
+	margin: 30px 0px 30px 0px;
+}
+.wrapper {
+	height: 100%;
+}
+.xanma-yujiro {
+	font-family: Gilroy;
+	font-weight: 600;
+	display: inline-block;
+}
+.bloc {
+	font-size: 27px;
+	text-align: center;
+	color: red;
+}
+.yujiro {
+}
+.text-yujiro {
+	display: inline-block;
+	overflow: auto;
+	width: 500px;
+	height: 70px;
+	margin: 20px;
+	padding: 20px 10px;
+}
+.subtext-yujiro {
+	overflow: auto;
+	width: 300px;
+	height: 100px;
+	margin: 10px;
+}
+.baki-xanma {
+}
+.baki {
+}
+.text-baki {
+	display: inline-block;
+	overflow: hidden;
+	width: 300px;
+	height: 70px;
+	margin: 20px;
+}
+.mysahi {
+	margin: 10px 0px;
+}
+.text-mysahi {
+	width: 300px;
+	height: 70px;
+	display: inline-block;
+	font-family: Bonheur Royale;
+	margin: 0 auto;
+}
+.katsymi {
+	margin: -10px;
+}
+.text-katsymi {
+	width: 300px;
+	height: 70px;
+	display: inline-block;
+	font-family: Stick No Bills;
+	font-weight: 200;
+}
+
+.recy-img {
+	width: 400px;
+	margin: 20px 0px;
+}
+.text-recy {
+	width: 300px;
+	height: 70px;
+	display: inline-block;
+	font-family: Stick No Bills;
+	font-weight: 200;
+	padding: 20px;
+}
+.line {
+	display: block;
+	background: red;
+}
+.div-stroc {
+	background: tomato;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	padding: 15px;
+	overflow: hidden;
+}
+.cilka {
+	display: inline-block;
+	padding: 15px;
+	background: #000;
+	color: #fff;
+}
+.pp-text {
+	display: inline-block;
+	max-width: 100px;
+	margin: 30px;
+	padding: 10px;
+	background: blueviolet;
+}
+.nacyv {
+	background: red;
+}
+.nacyv-text {
+	margin: -10px;
+	font-size: 20px;
+	background: #000;
+	color: white;
+}
+.crol {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	overflow: auto;
+	margin: 40px 0px;
+}
